@@ -23,7 +23,7 @@ search paradigm, combined with two specially designed heuristics to improve the 
 ### code
 •	Xiaoyang Chen 
 ### paper
-NBA-GED is an implementation of the paper.
+BSSGED is an implementation of the paper.
 
 X. Chen, H. Huo, et al. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 2019, 163: 762–775
  
