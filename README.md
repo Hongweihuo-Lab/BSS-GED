@@ -23,7 +23,7 @@ search paradigm, combined with two specially designed heuristics to improve the 
 ### code
 •	Xiaoyang Chen 
 ### paper
-BSSGED is an implementation of the paper.
+BSS_GED is an implementation of the paper.
 
 Xiaoyang Chen, Hongwei Huo, Jun Huan, and Jeffrey S. Vitter. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 2019, 163: 762–775.
  
