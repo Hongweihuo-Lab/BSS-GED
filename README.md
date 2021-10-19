@@ -20,8 +20,7 @@ search paradigm, combined with two specially designed heuristics to improve the 
        (6) w is the beam width.        
        
 ## Contributors
-### code
-•	Xiaoyang Chen 
+ 
 ### paper
 Xiaoyang Chen, Hongwei Huo, Jun Huan, and Jeffrey S. Vitter. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 2019, 163: 762–775.
  
