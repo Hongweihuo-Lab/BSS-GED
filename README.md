@@ -23,4 +23,4 @@ search paradigm, combined with two specially designed heuristics to improve the 
 X. Chen, H. Huo, J. Huan, and J. S. Vitter. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 163: 762–775, 2019.
  
 ### Feedback
-Report bugs to <jackcxy@126.com>. Your feedback and test results are welcome.
+Report bugs to X. Chen <jackcxy@126.com>. Your feedback and test results are welcome.
