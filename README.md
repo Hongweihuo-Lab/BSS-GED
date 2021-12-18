@@ -19,10 +19,8 @@ search paradigm, combined with two specially designed heuristics to improve the 
            GED computation; and otherwise, we perform the threshold-based graph similarity search.        
        (6) w is the beam width.        
        
-## Contributors
- 
-### paper
-Xiaoyang Chen, Hongwei Huo, Jun Huan, and Jeffrey S. Vitter. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 2019, 163: 762–775.
+## Paper
+X. Chen, H. Huo, J. Huan, and J. S. Vitter. An Efficient Algorithm for Graph Edit Distance Computation. Knowledge-Based Systems, 163: 762–775, 2019.
  
 ### Feedback
 Report bugs to <jackcxy@126.com>. Your feedback and test results are welcome.
